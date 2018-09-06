@@ -19,13 +19,19 @@ All of tests should be passed at this point in application. A developer will man
 - Make sure to put these changes back and run application for accurately view
 
 # Where to look for testing code
-These required tests for the project with subjects lines of code for in feedreader file:
-	- RSS Feed 
-	- Feed Property
-	- All Feed 
-	- The menu state and menu hiding/showing
-	- Initial Entries
-	- New Feed Selection
+These required tests for the project with subjects lines of code presented in feedreader file included:
+
+- RSS Feed 
+
+- Feed Property
+
+- All Feed 
+
+- The menu state and menu hiding/showing
+
+- Initial Entries
+
+- New Feed Selection
 
 # Resources for Feed Reader Testing project
 
